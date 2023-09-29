@@ -46,3 +46,58 @@ public class StudentGrades {
     }
     
 }
+
+/*
+OUTPUT:- 
+ Enter name of Student1:
+Nik
+Enter marks of Student1:
+90
+Enter name of Student2:
+Raj
+Enter marks of Student2:
+88
+Enter name of Student3:
+Viv
+Enter marks of Student3:
+87
+Enter name of Student4:
+Akhi
+Enter marks of Student4:
+89
+Enter name of Student5:
+Div
+Enter marks of Student5:
+78
+Enter name of Student6:
+Sha
+Enter marks of Student6:
+89
+Enter name of Student7:
+ram
+Enter marks of Student7:
+67
+Enter name of Student8:
+Kum
+Enter marks of Student8:
+67
+Enter name of Student9:
+guj
+Enter marks of Student9:
+45
+Enter name of Student10:
+esha
+Enter marks of Student10:
+45
+Grades for Students:
+Nik: B
+Raj: B
+Viv: B
+Akhi: B
+Div: C
+Sha: B
+ram: D
+Kum: D
+guj: E
+esha: E
+ */
